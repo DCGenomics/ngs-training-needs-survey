@@ -8,12 +8,14 @@ training <http://ivory.idyll.org/blog/2014-davis-and-training.html>`__
 for more information and background.)
 
 Below is my list so far.  I welcome comments, additions, and critiques!
+The live site is at http://ngs-training-needs-survey.rtfd.org/.
 
 Please feel free to copy, fork, and modify freely - the source for
 this is on github at
 https://github.com/ngs-docs/ngs-training-needs-survey.
 
 Genome assembly and annotation:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Assembling and annotating bacterial and archaeal genomes (w/Illumina, PacBio)
 
@@ -29,6 +31,8 @@ Genome assembly and annotation:
 
 * Annotating bacterial genomes
 
+* Long-read technologies for large genomes (PacBio, Moleculo)
+
 * Emerging technologies for genome sequencing, assembly, and annotation in plants
 
 * Emerging technologies for genome sequencing, assembly, and annotation in bacteria and archaea
@@ -36,6 +40,7 @@ Genome assembly and annotation:
 * Emerging technologies for genome sequencing, assembly, and annotation in animals
 
 Resequencing and variant calling:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Variant calling on bacterial and archaeal genomes
 
@@ -44,6 +49,7 @@ Resequencing and variant calling:
 * Genotyping by sequencing
 
 Transcriptomics:
+~~~~~~~~~~~~~~~~
 
 * mRNAseq expression analysis in major model organisms (human, mouse, zebrafish, Arabidopsis, yeast, worm, Drosophila)
 
@@ -56,6 +62,7 @@ Transcriptomics:
 * De novo mRNAseq in bacteria and archaea (no reference genome)
 
 Metagenomics and microbial ecology:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Amplicon analysis of populations and population structure
 
@@ -64,6 +71,7 @@ Metagenomics and microbial ecology:
 * De novo shotgun metagenome and metatranscriptome assembly and analysis
 
 Other:
+~~~~~~
 
 * ChIP-seq analysis
 
