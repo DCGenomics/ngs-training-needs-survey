@@ -1,6 +1,14 @@
 Practical bioinformatics topics / NGS
 =====================================
 
+I'm developing a survey instrument that I can use to assess
+bioinformatics training needs at UC Davis, with a particular emphasis
+on practical sequencing data analysis.  (Please see `my blog post on
+training <http://ivory.idyll.org/blog/2014-davis-and-training.html>`__
+for more information and background.)
+
+Below is my list so far.  I welcome comments, additions, and critiques!
+
 Please feel free to copy, fork, and modify freely - the source for
 this is on github at
 https://github.com/ngs-docs/ngs-training-needs-survey.
