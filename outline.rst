@@ -7,6 +7,15 @@ on practical sequencing data analysis.  (Please see `my blog post on
 training <http://ivory.idyll.org/blog/2014-davis-and-training.html>`__
 for more information and background.)
 
+A few notes --
+
+1. I intend this survey to be for biologists to fill out.  So, I'm avoiding
+   technical and foundational skills (cloud computing, Linux/UNIX, R,
+   Python, managing large data sets).
+
+2. I'm also avoiding sequence analysis approaches for which there are no
+   established pipelines.
+
 Below is my list so far.  I welcome comments, additions, and critiques!
 The live site is at http://ngs-training-needs-survey.rtfd.org/.
 
