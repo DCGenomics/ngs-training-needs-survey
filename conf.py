@@ -176,7 +176,7 @@ htmlhelp_basename = 'labibidoc'
 
 html_context = {
 #   "google_analytics_id" : 'UA-36028965-1',
-#   "disqus_shortname" : 'labibi',
+   "disqus_shortname" : 'ngstrainingneedssurvey',
 #   "github_base_account" : 'ctb',
 #   "github_project" : 'labibi',
 }
