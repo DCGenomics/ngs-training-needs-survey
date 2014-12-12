@@ -40,6 +40,8 @@ Genome assembly and annotation:
 
 * Annotating bacterial genomes
 
+* Annotating fungal genomes
+
 * Long-read technologies for large genomes (PacBio, Moleculo)
 
 * Emerging technologies for genome sequencing, assembly, and annotation in plants
@@ -51,7 +53,7 @@ Genome assembly and annotation:
 Resequencing and variant calling:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Variant calling on bacterial and archaeal genomes
+* Variant calling on bacterial, archaeal, and fungal genomes
 
 * Variant calling on plant and animal genomes
 
@@ -62,9 +64,9 @@ Transcriptomics:
 
 * mRNAseq expression analysis in major model organisms (human, mouse, zebrafish, Arabidopsis, yeast, worm, Drosophila)
 
-* ab initio transcriptome assembly, annotation, and expression analysis (semi-model animals and plants)
+* ab initio transcriptome assembly, annotation, and expression analysis (semi-model animals, plants, and fungi)
 
-* de novo transcriptome assembly, annotation, and expression analysis (non-model animals and plants)
+* de novo transcriptome assembly, annotation, and expression analysis (non-model eukaryotes)
 
 * Reference-genome-based bacterial and archaeal transcriptomics
 
