@@ -87,3 +87,35 @@ Other:
 * Reduced representation analysis of genomes and populations
 
 * Marker development
+
+More open-ended questions:
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What bioinformatics software/programs are you using right now?
+
+* CLC Workbench;
+* Galaxy;
+* Other (pls specify)
+
+What compute resources are you using, if any?
+
+* Laptop or lab computer;
+* iPlant;
+* XSEDE;
+* DIAG;
+* Amazon cloud;
+* Davis Genome Center;
+* Other cloud (specify)
+* Other (pls specify)
+
+What scripting or programming languages are you using, if any?
+
+* MATLAB
+* R
+* Python
+* Perl
+* SAS
+* Other (pls specify)
+
+What do you feel is your major bioinformatics or sequence analysis-related
+obstacle, i.e. what is getting in the way of doing your data analysis?
