@@ -90,6 +90,8 @@ Other:
 
 * Marker development
 
+* Genome Wide Association Studies
+
 More open-ended questions:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 

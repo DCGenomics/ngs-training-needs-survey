@@ -10,6 +10,7 @@ Welcome!
    :maxdepth: 2
 
    outline
+   tiers
 
 Indices and tables
 ==================
