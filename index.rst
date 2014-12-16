@@ -11,6 +11,7 @@ Welcome!
 
    outline
    tiers
+   learning-aims
 
 Indices and tables
 ==================
