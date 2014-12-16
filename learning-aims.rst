@@ -19,11 +19,21 @@ The workshops will, in the long term, enable students to:
 
 * Use the appropriate statistical models and tools.
 
-* Gain in efficiency and expertise on their own, or via informal interactions
-  in person, online, and through reading.
+* Gain in efficiency and expertise on their own, through reading,
+  or via informal interactions in person and online.
 
 * Choose and apply the appropriate computational resources.
 
 * Appropriately manage raw data and associated metadata.
 
+* Identify, troubleshoot, and solve common technical problems on their
+  own, or via informal interactions in person, and/or online.
+
 (Thanks to Tracy Teal for comments on this.)
+
+Also see:
+
+https://twitter.com/JasonWilliamsNY/status/544853305017765888 (Jason Williams)
+
+https://twitter.com/Vaguery/status/544847281124835328 (Bill Tozier)
+
