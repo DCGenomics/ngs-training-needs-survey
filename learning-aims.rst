@@ -23,3 +23,7 @@ The workshops will, in the long term, enable students to:
   in person, online, and through reading.
 
 * Choose and apply the appropriate computational resources.
+
+* Appropriately manage raw data and associated metadata.
+
+(Thanks to Tracy Teal for comments on this.)
