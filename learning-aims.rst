@@ -12,7 +12,8 @@ The workshops will, in the long term, enable students to:
   them to their data.
 
 * Know how to assess computational performance and design appropriate
-  computational controls.
+  computational controls, and use these to evaluate parameter and
+  software choices.
 
 * Record their analysis workflow, publish reproducible analyses, and
   track data provenance manually.
